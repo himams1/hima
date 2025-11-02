@@ -10,8 +10,8 @@ import campushub from '../assets/png/campushub.png'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Voting App',
-        projectDesc: 'A secure web-based platform for conducting college elections, allowing students to log in, view candidates, and cast their votes online.',
+        projectName: 'Iris recognition using AI',
+        projectDesc: 'Iris recognition using AI is a biometric identification system that employs artificial intelligence to analyze the unique patterns of the human iris for authentication',
         tags: ['React', 'JavaScript', 'CSS', 'HTML'],
         code: 'https://github.com/srinivaspavan73/Secure-Access',
         demo: 'https://github.com/srinivaspavan73/Secure-Access',
@@ -19,22 +19,13 @@ export const projectsData = [
     },
     {
         id: 2,
-        projectName: 'CampusHub',
-        projectDesc: 'A web application that enables users to log in, browse and register for events, and collaborate on campus projects.',
+        projectName: 'plant disease detection using CNN',
+        projectDesc: 'This project uses a Convolutional Neural Network (CNN) to automatically detect plant diseases from images of leaves, helping to increase crop yields and ensure food security. ',
         tags: ['React', 'Node', 'Express', 'SQL', 'JavaScript'],
-        code: 'https://github.com/srinivaspavan73/Landlink',
-        demo: 'https://github.com/srinivaspavan73/Landlink',
+        
         image: campushub
     },
-    {
-        id: 3,
-        projectName: 'WeaveQuest: Exclusive Handloom Saree Marketplace',
-        projectDesc: 'A dedicated online platform celebrating the tradition of handloom sarees, connecting artisans and enthusiasts in a vibrant marketplace.',
-        tags: ['React', 'CSS' , 'HTML'],
-        code: 'https://github.com/srinivaspavan73/Weaver-s-Loom',
-        demo: 'https://weavers-loom.netlify.app/',
-        image: handloom
-    }
+    
 ]
 
 
