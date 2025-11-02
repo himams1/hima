@@ -1,7 +1,7 @@
 export const contactsData = {
     email: 'himahimams4@gmail.com',
     phone: '8073307609',
-    address: 'chikkamangaluru, Karnataka, India',
+    address: 'Chikkamagaluru, Karnataka, India',
     linkedIn: 'https://www.linkedin.com/in/himams21',
     instagram: 'https://www.instagram.com/hima_1703_?igsh=bWs4anpzbnJ2ejNs',
     github:'https://github.com/himams1',
